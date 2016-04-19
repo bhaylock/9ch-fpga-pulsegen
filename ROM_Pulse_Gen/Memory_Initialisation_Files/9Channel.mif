@@ -1,0 +1,26 @@
+
+-- For 9 Channel Driver, first generated 020316
+
+ 
+
+DEPTH = 16;                   -- The size of memory in words
+WIDTH = 18;                    -- The size of data in bits
+ADDRESS_RADIX = HEX;          -- The radix for address values
+DATA_RADIX = BIN;             -- The radix for data values
+CONTENT                       -- start of (address : data pairs)
+BEGIN
+
+00 : 000000011110011001;                -- memory address : data
+01 : 000000110110011001;
+02 : 000001100110011001;
+03 : 000011000110011001;
+04 : 000110000110011001;
+05 : 001100000110011001;
+06 : 011000000110011001;
+07 : 110000000110001101;
+08 : 100000001110010101;
+
+
+END;
+
+ 
