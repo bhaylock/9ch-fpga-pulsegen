@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="RAM_Pulse_Gen_ver0_1">
+		<CBX_INST_ENTRY INSTANCE_NAME="|RAM_Pulse_Gen_ver0_1_top|altpll0:inst2|altpll:altpll_component" CBX_FILE_NAME="altpll0_altpll.v"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|RAM_Pulse_Gen_ver0_1_top|rom1port:inst1|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_skc1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
